@@ -1,0 +1,12 @@
+node_modules/
+node_modules_incomplete/
+.next/
+out/
+test-results/
+playwright-report/
+artifacts/
+.preview-pages/
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
